@@ -20,5 +20,4 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo omni_find7op-userdebug
-add_lunch_combo omni_find7op-eng
+add_lunch_combo du_find7op-userdebug
