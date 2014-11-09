@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
 
 # NFC packages
 PRODUCT_PACKAGES += \
-    NfcNci \
     Tag
 
 PRODUCT_COPY_FILES += \
